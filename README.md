@@ -16,7 +16,7 @@ Empowering sustainable agriculture through data-driven crop selection
 
 ## 📋 Overview
 
-The **Crop Recommendation System for Green Lead** is an intelligent, machine learning-powered solution designed to revolutionize agricultural decision-making. Built for [Green Lead Global](https://greenleadglobal.org/), this system leverages **Random Forest Algorithm** to provide farmers with personalized, data-driven crop recommendations based on their specific soil composition, weather conditions, and regional characteristics.
+The **Crop Recommendation System for Green Lead** is a machine learning-powered solution designed to revolutionize agricultural decision-making. Built for [Green Lead Global](https://greenleadglobal.org/), this system leverages **Random Forest Algorithm** to provide farmers with personalized, data-driven crop recommendations based on their specific soil composition, weather conditions, and regional characteristics.
 
 By analyzing key soil parameters (NPK ratios and pH levels) alongside climate data (temperature, humidity, rainfall), the system identifies the most suitable crops for optimal yield, sustainability, and environmental responsibility.
 
